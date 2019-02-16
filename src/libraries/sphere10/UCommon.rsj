@@ -1,0 +1,8 @@
+{"version":1,"strings":[
+{"hash":239881972,"name":"ucommon.snotimplemented","sourcebytes":[78,111,116,32,105,109,112,108,101,109,101,110,116,101,100],"value":"Not implemented"},
+{"hash":259511427,"name":"ucommon.sinvalidparameter_outofbounds","sourcebytes":[73,110,118,97,108,105,100,32,80,97,114,97,109,101,116,101,114,58,32,37,115,32,111,117,116,32,111,102,32,98,111,117,110,100,115],"value":"Invalid Parameter: %s out of bounds"},
+{"hash":4757399,"name":"ucommon.slogdebug","sourcebytes":[68,69,66,85,71],"value":"DEBUG"},
+{"hash":320175,"name":"ucommon.sloginfo","sourcebytes":[73,78,70,79],"value":"INFO"},
+{"hash":191311479,"name":"ucommon.slogwarn","sourcebytes":[87,65,82,78,73,78,71],"value":"WARNING"},
+{"hash":4880194,"name":"ucommon.slogerror","sourcebytes":[69,82,82,79,82],"value":"ERROR"}
+]}

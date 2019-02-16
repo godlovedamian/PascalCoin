@@ -1,0 +1,6 @@
+{"version":1,"strings":[
+{"hash":180321668,"name":"hlpblake2bivbuilder.sinvalidhashsize","sourcebytes":[34,72,97,115,104,83,105,122,101,34,32,77,117,115,116,32,66,101,32,71,114,101,97,116,101,114,32,84,104,97,110,32,48,32,65,110,100,32,76,101,115,115,32,84,104,97,110,32,111,114,32,69,113,117,97,108,32,84,111,32,54,52],"value":"\"HashSize\" Must Be Greater Than 0 And Less Than or Equal To 64"},
+{"hash":174190692,"name":"hlpblake2bivbuilder.sinvalidkeylength","sourcebytes":[34,75,101,121,34,32,76,101,110,103,116,104,32,77,117,115,116,32,78,111,116,32,66,101,32,71,114,101,97,116,101,114,32,84,104,97,110,32,54,52],"value":"\"Key\" Length Must Not Be Greater Than 64"},
+{"hash":187440310,"name":"hlpblake2bivbuilder.sinvalidpersonalisationlength","sourcebytes":[34,80,101,114,115,111,110,97,108,105,115,97,116,105,111,110,34,32,76,101,110,103,116,104,32,77,117,115,116,32,66,101,32,69,113,117,97,108,32,84,111,32,49,54],"value":"\"Personalisation\" Length Must Be Equal To 16"},
+{"hash":161821622,"name":"hlpblake2bivbuilder.sinvalidsaltlength","sourcebytes":[34,83,97,108,116,34,32,76,101,110,103,116,104,32,77,117,115,116,32,66,101,32,69,113,117,97,108,32,84,111,32,49,54],"value":"\"Salt\" Length Must Be Equal To 16"}
+]}

@@ -1,0 +1,5 @@
+15-02-2019 23:23:06.863 TID:7F68E1B73700 [Info] <TPCDaemonThread> START PascalCoin Server
+15-02-2019 23:23:06.863 TID:7F68E1B73700 [Error] <TPCDaemonThread> Exception EFOpenError: Unable to open file "/root/PascalCoin_TESTNET/WalletKeys.dat"
+15-02-2019 23:15-02-2019 23:32:36.122 TID:7F5B13E63700 [Info] <TPCDaemonThread> START PascalCoin Server
+15-02-2019 23:32:36.122 TID:7F5B13E63700 [Error] <TPCDaemonThread> Exception EFOpenError: Unable to open file "/root/PascalCoin_TESTNET/WalletKeys.dat"
+15-02-2019 23:

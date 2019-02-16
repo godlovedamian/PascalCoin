@@ -1,0 +1,39 @@
+
+## Executable and side-files
+*.exe
+*.identcache
+*.stat
+
+## OpenSSL 
+libeay32.dll
+libeay64.dll
+libcrypto-1_1-x64.dll
+libcrypto-1_1.dll
+libcrypto.so.1.1
+
+
+# Log files
+*.log
+
+# Lazarus-related changes
+#*.dproj
+*.dproj.local
+*.lps
+*.dcu
+lib/
+PascalCoinWallet_Icon.ico
+
+#Lazarus backup files
+*.bak
+backup/
+
+## Development miner batch file
+Run*.bat
+
+## Bin folders (Unit test projects, etc)
+bin/
+
+## Delphi files
+__history/
+dunit.ini
+*.res
